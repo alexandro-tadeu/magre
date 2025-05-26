@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\msys64\\mingw64.exe",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
